@@ -1,0 +1,6 @@
+## YAML Template.
+---
+jwt:
+    secret: ${MY_SECRET}
+    expiration: ${EXPIRATION}
+    header: Authorization
